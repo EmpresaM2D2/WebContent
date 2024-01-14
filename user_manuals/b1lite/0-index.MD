@@ -10,4 +10,4 @@ A implantação assume que já se tenha acesso as informações do SAP Business 
 
 [Login](2-start.MD)
 
-[Configuraçòes gerais](3-general-settings.MD)
+[Configurações gerais](3-general-settings.MD)
