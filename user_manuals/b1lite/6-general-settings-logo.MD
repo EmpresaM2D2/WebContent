@@ -9,3 +9,5 @@ Menu -> Configurações -> Configurações -> Parâmetros gerais -> Logotipo
 |Posição|Permite selecionar a posição do logo na tela de login|
 |Plano de fundo|Permite definir uma cor selecionando de uma paleta de cores o plano de fundo para o logo|
 |Preview|Na sessão preview permite ao usuário ver o resultado de suas configurações de logo|
+
+[Próximo -> Visualização de configurações](7-general-settings-settingsviewer.MD)

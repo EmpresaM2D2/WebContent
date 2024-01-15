@@ -1,5 +1,5 @@
 ## Parâmetros gerais -> Integração
-O B1Lite permite integração com as soluções IntBank (Emissão de boletos) e Invoice One (Emissão de nota fiscal). 
+O B1Lite permite integração com as soluções Bank Plus (Emissão de boletos) e Invoice One (Emissão de nota fiscal). 
 
 Menu -> Configurações -> Configurações -> Parâmetros gerais-> Integração
 
