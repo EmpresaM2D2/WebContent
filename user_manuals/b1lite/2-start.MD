@@ -1,3 +1,6 @@
+# Login do sistema
+Acesso ao sistema é feito através de tela de login. Use as mesmas credenciais de usuário e senha utilizadas no SAP Business One.
+
 Na tela de login informe seu usuário e senha do SAP Business One
 
 ![Architect](https://github.com/EmpresaM2D2/WebContent/blob/master/b1lite/login.png?raw=true)

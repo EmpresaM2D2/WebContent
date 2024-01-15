@@ -1,6 +1,5 @@
-#Parâmetros gerais -> Geral
-
-Para definir configurações de uso acesse
+# Parâmetros gerais -> Geral
+Os parâmetros gerais do sistema permite fazer definições de regras gerais do sistema como obrigatoriedade de campos e habilitar novos campos em cadastros específicos.
 
 Menu -> Configurações -> Configurações -> Parâmetros gerais
 

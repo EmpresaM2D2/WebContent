@@ -1,4 +1,8 @@
-## Configuração
+## Configuração inicial
+As configurações de inicialização permitem ao usuário definir a conexão com o SAP Business One. Permitem ainda extender funcionalidades da aplicação e atribuir acessos de bases de dados a usuários específicos do SAP Business One.
+
+Acesso: Tela de login -> Botão de configuração
+
 1 - Para configurar o B1Lite acesse o ícone de configurações no canto inferior direito (ícone de engrenagem).
 ![Architect](https://github.com/EmpresaM2D2/WebContent/blob/master/b1lite/settings.png?raw=true)
 
