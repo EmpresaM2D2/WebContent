@@ -1,7 +1,7 @@
 ## Parâmetros gerais -> Logotipo
 O B1Lite na sessão logotipo de parâmetros gerais permite ao usuário customizar o logo, plano de fundo, posição da imagem padrão para exibição se sua própria marca.
 
-Menu -> Configurações -> Configurações -> Logotipo
+Menu -> Configurações -> Configurações -> Parâmetros gerais -> Logotipo
 
 |Campo|Descrição|
 |---|---|
