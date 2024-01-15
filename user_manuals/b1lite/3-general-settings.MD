@@ -1,4 +1,4 @@
-#Configurações -> Geral
+#Parâmetros gerais -> Geral
 
 Para definir configurações de uso acesse
 
@@ -33,3 +33,5 @@ Menu -> Configurações -> Configurações -> Parâmetros gerais
 |Habilitar download direto|Se habilitado permite **forçar** o sistema a fazer o download do arquivo lendo o mesmo direto da pasta de arquivos e não usando a SAP Service Layer|
 |Habilitar anexos na área do fornecedor|Se habilitado o usuário **Fornecedor** poderá enviar arquivos nos documentos de compra|
 |Language|O campo permite ao usuário selecionar o idioma da aplicação|
+
+[Próximo -> Configurações de relatório](4-general-settings-report.MD)
